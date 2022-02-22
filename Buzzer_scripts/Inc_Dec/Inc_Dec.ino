@@ -1,9 +1,9 @@
-  int buzz = 11;
+  int buzz = 8;
 
 void setup()
 {
 
-  pinMode(11,OUTPUT);
+  pinMode(buzz,OUTPUT);
 //  tone(buzz,1000,5000);
   
 }
